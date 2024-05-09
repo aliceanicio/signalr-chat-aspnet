@@ -1,0 +1,5 @@
+# Ignorar diretório .vs
+.vs/
+
+# Ignorar arquivos .vsidx dentro de .vs
+.vs/*.vsidx
